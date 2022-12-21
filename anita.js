@@ -83,9 +83,9 @@ const { getBuffer, getRandom, getExtension } = require('./archivos/lib/functions
 const { fetchJson } = require("./archivos/lib/fetcher")
 // CONSTANTES SETTING //
 
-var prefix = '*' //prefijo
-var NombreBot = 'Anita Bot' // nombre del bot 
-var Creador = "Juls Modders & clovers Mods" // No cambiar
+var prefix = '.' //prefijo
+var NombreBot = 'Joseph Bot' // nombre del bot 
+var Creador = "🜲͜͡⃟⸸𝗝𝗢𝗦𝗘𝗣𝗛᭄" // No cambiar
 
 // BANNER //
 
@@ -104,9 +104,9 @@ const store = makeInMemoryStore({ logger: P().child({ level: 'debug', stream: 'l
 const { state, saveState } = useSingleFileAuthState('./cache/anita.json')
 async function startJuls() {
 const { version, isLatest } = await fetchLatestBaileysVersion()
-console.log(`💤..Conectando..!!`)
+console.log(`..Conectando..!!`)
 console.log(banner.string)
-console.log("..Anita Bot..\nConectado Exitosamente..")
+console.log("..Joseph Bot..\nConectado Exitosamente..")
 const anita = WAConnection({
 logger: P({ level: "silent" }),
 printQRInTerminal: true,
@@ -125,12 +125,12 @@ anita.ev.on("connection.update", (update) => {
 const { connection, lastDisconnect } = update
 if(connection === "close") {
 const shouldReconnect = (lastDisconnect.error)?.output?.statusCode !== DisconnectReason.loggedOut
-console.log("😪..Conección inestable..", lastDisconnect.error, "Intentando conectar...", shouldReconnect);
+console.log("..Conexión inestable..", lastDisconnect.error, "Intentando conectar...", shouldReconnect);
 if(shouldReconnect) {
 startJuls()
 }
 } else if(connection === "open") {
-console.log("Anita Bot funciona correctamente!!!")
+console.log("Joseph Bot funciona correctamente!!!")
 }
 })
 //*******************************************//
@@ -236,6 +236,33 @@ const sendGifButao = async (id, gif1, text1, desc1, but = [], vr) => { buttonMes
 anita.sendMessage(id, buttonMessage, {quoted: vr}) }
 //*******************************************//
 
+const enviartexto = (texto) => {
+anita.sendMessage(from, {text : texto}, {quoted : contato})
+}
+
+const enviarimagen = (imagen) => {
+anita.sendMessage(from, {image : imagen}, {quoted : doc})
+}
+
+const enviarimagencap = (imagen,caption) => {
+anita.sendMessage(from, {image : imagen,caption : caption }, {quoted : doc})
+}
+
+const enviarvideos = (videos) => {
+anita.sendMessage(from, {video : imagen}, {quoted : doc})
+}
+
+const enviarvideoscap = (videos,caption) => {
+anita.sendMessage(from, {video : videos,caption : caption }, {quoted : doc})
+}
+
+const enviarmusica = (audios) => {
+anita.sendMessage(from, {audio : audios}, {quoted : doc})
+}
+
+const enviarsticker = (sticker) => {
+anita.sendMessage(from, {sticker : sticker}, {quoted : doc})
+}
 
 // VERIFICACIONES 
 
@@ -276,6 +303,7 @@ error: ".. Error, intente nuevamente.."
 switch(command){
 
 // ESCRIBIR AQUI COMANDOS CON PREFIJO
+		
 
 
 default:
