@@ -634,6 +634,39 @@ El resultado final sería: 529220xxxxxxx4x1`
 enviarimagencap(imagebin2,bin2)
 		break
 		
+		case 'extrapolacionhq':
+case 'extrapolacion-hq':
+case 'extrapolacion_hq':
+case 'extrapolaciónhq':
+case 'extrapolación-hq':
+case 'extrapolación_hq':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const imagebin3 = fs.readFileSync('./binners/imagebin3.jpg')
+		const bin3 = `✅ METODO PARA SACAR LIVE FAST SIN BOT SIN NADA , Y PARA TENER LA CERTITUD QUE JALA O ESTA REALMENTE LIVE USA CAROL O CUALQUIER OTRO BOT O CHECKER WEB , SI TE DA DIED EL BIN NO SIRVE O LO HICISTE MAL 
+
+4519912161013521|03|2026|618
+
+CC : 451991216101 { 3521 } 
+3+5= 8| ( 8+3 = 11)
+2+1= 3 |
+
+FECHA : ( 11 )
+
+YEAR : ( 2026 = 20 ( 2 ) + 6 ) = 8
+2026 = 202(8)
+
+Cvv = 618 = 6/2=3+1=4+8=12
+Cvv 618= 412 
+
+
+CC final : 4519912161013521|11|2028|412
+
+✅ NOTA EL METODO ESTA FULL Y LLEGA A SACAR CCS CON SALDO.`
+enviarimagencap(imagebin3,bin3)
+		break
+		
+		
+		
 		case 'extrapolacion':
 					case 'extrapolación':
 	  				case 'extrapolar':
