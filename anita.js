@@ -1546,6 +1546,74 @@ Comunidad:
 enviarimagencap(imagebin15,bin15)
 		break
 
+		case 'apkbinero':
+	  				case 'apk-binero':
+					case 'apk_binero':
+					case 'carding':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const imagebin16 = fs.readFileSync('./binners/imagebin16.jpg')
+		const bin16 = `Les recomiendo esta nueva aplicación de carding completamemente gratis.
+
+https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file
+
+Contenido 👇
+
+Bins
+Métodos
+Cuentas Premiun
+Cursos
+Tutoriales
+Generadores y mucho más`
+enviarimagencap(imagebin16,bin16)
+		break
+		
+		case 'chfree':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const imagebin17 = fs.readFileSync('./binners/imagebin17.jpg')
+		const bin17 = `⚜️🆓 CURSO VIP 🆓⚜️
+ 
+✝️ Temario Del Curso:
+
+📍 Crear Cuentas Premiun
+
+📌 ${prefix}Acorntv
+📌 ${prefix}Duolingo
+📌 ${prefix}Hbomax
+📌 ${prefix}Lumosity
+📌 ${prefix}PrimeVideo
+
+📍 Extrapolar Un Bin
+
+📌 ${prefix}Extrapolación
+📌 ${prefix}Extrapolación_HQ
+📌 ${prefix}Extrapolar_Compras
+
+📍 Checker CC
+
+📌 ${prefix}wayfair
+
+📍 Crear Cuentas Premiun Sin Bin
+
+📌 ${prefix}CactusVPN
+📌 ${prefix}Tidal
+📌 ${prefix}Pornhub
+📌 ${prefix}Avira
+
+📍 Bonus
+
+📌 ${prefix}Introducción_bins
+📌 ${prefix}Introducción_carding
+📌 ${prefix}Paypal
+📌 ${prefix}Compras
+📌 ${prefix}Carding
+
+↪️ Soporte y Ayuda ↩️
+
+https://chat.whatsapp.com/DwvnxoVjSoz4246vFbZBCP`
+enviarimagencap(imagebin17,bin17)
+		break
+		
+		
 default:
 
 }
