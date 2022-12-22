@@ -667,12 +667,9 @@ enviarimagencap(imagebin3,bin3)
 		
 		
 		
-		case 'extrapolacion':
-					case 'extrapolación':
-	  				case 'extrapolar':
-					case 'extrapolarunbin':
-					case 'extrapolar_un_bin':
-					case 'extrapolar-un-bin':
+		case 'verificarunbin':
+					case 'verificar_un_bin':
+	  				case 'verificar-un-bin':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
 		const imagebin4 = fs.readFileSync('./binners/imagebin4.jpg')
 		const bin4 = `Bueno geys. En esta oportunidad les enseñare a Verificar su BIN
@@ -1503,12 +1500,9 @@ enviarimagencap(imagebin13,bin13)
 enviarimagencap(imagebin14,bin14)
 		break
 		
-		case 'grupobins':
-	  			  case 'grupo_bins':
-					case 'grupo-bins':
-					case 'bineriauniversal':
-					case 'bineria-universal':
-					case 'bineria_universal':
+		case 'miembros':
+	  			  case 'staff':
+					case 'member':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
 		const imagebin15 = fs.readFileSync('./binners/imagebin15.jpg')
 		const bin15 = `𝐓𝐞𝐚𝐦 𝐁𝐢𝐧𝐞𝐫𝐢𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐥:
@@ -1516,22 +1510,14 @@ enviarimagencap(imagebin14,bin14)
 𝐒𝐭𝐚𝐟𝐟 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝐃𝐞 𝐁𝐢𝐧𝐞𝐫𝐢𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐥:
 
 • Joseph ➜ Fundador
-• Castillo ➜ Cofundador
-• Duende ➜ Cofundador
 • Ghost  ➜ Cofundador
-• Jasiel ➜ Cofundador
 • Joel ➜ Cofundador
-• Ruso ➜ Cofundador
 • Admiro ➜ Iptv
 • Angy ➜ Ayudante
-• Arturo ➜ Dx
-• Antonio ➜ Ayudante
 • Blankito ➜ Checker
-• Edgar ➜ Ayudante
 • Jose Miguel ➜ Hits
-• Joshua ➜ Netfree
-• Sangronith Reymundo ➜ Vip
-• Suicida ➜ Cancerbero
+• Joshua ➜ Free
+• Sangronith Reymundo ➜ HSBC
 
 Bot:
 
@@ -1590,7 +1576,7 @@ enviarimagencap(imagebin16,bin16)
 
 📍 Checker CC
 
-📌 ${prefix}wayfair
+📌 ${prefix}adobe
 
 📍 Crear Cuentas Premiun Sin Bin
 
@@ -1603,8 +1589,7 @@ enviarimagencap(imagebin16,bin16)
 
 📌 ${prefix}Introducción_bins
 📌 ${prefix}Introducción_carding
-📌 ${prefix}Paypal
-📌 ${prefix}Compras
+📌 ${prefix}Bonus
 📌 ${prefix}Carding
 
 ↪️ Soporte y Ayuda ↩️
