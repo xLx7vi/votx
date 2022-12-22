@@ -1701,6 +1701,107 @@ enviarvideoscap(prime,bin21)
 enviarimagencap(lumosity,bin22)
 		break
 		
+		case 'extrapolar_compras':
+case 'Extrapolar-Compras':
+case 'ExtrapolarCompras':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const imagebin23 = fs.readFileSync('./vidbinners/imagebin23.jpg')
+		const bin23 = `⚡*EXTRAPOLAR CC PARA UN BIN DE COMPRAS FÍSICAS*⚡
+
+*INICIAMOS DE UN PUNTO BASE (UNA CC REAL)*
+
+*EJEMPLO:*
+4213-1660-3321-0102
+12/23 189
+
+*COMO SE EXTRAPOLA LA EXTRAPOLACION BÁSICA Y LA DE 5 X*
+
+4213-1660-3321-XXXX
+USAMOS FECHAS DE LA CC
+12/23
+EL CVV PUEDE SER RAMDON O EL DE LA CC
+
+
+*ESAS EXTRAPOLACIONES SON LAS COMUNES PARA BINS DE COMPRAS FISICAS*
+
+*SI SE ENCUENTRA UN BIN ASI:*
+
+*EJEMPLO:*
+421316XXXXXXXXX
+GEN:
+GEN:
+
+ *ESE BIN ES SOLO DE CUENTAS PREMIUM SABEMOS QUE NO SIRVE PARA COMPRAS FISICAS*`
+enviarimagencap(imagebin23,bin23)
+		break
+		
+		case 'cactusvpn':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const imagebin24 = fs.readFileSync('./vidbinners/imagebin24.jpg')
+		const bin24 = `📩🔰 CAPTUS VPN SIN BIN   🔰📩
+
+⚜ IP: Con La Tuya
+
+1️⃣ Ir al siguiente link:
+
+https://www.cactusvpn.com/es/prueba-de-vpn-gratis/
+
+2️⃣ Llenar los datos con correo invetado
+
+3️⃣ Confirmar la cuenta y crear su contraseña y listo
+
+ℹ Recuerda Usar Firefox Focus
+
+🔱 Cortesia De: @BineriaUniversal`
+enviarimagencap(imagebin24,bin24)
+		break
+		
+		case 'tidal':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const tidal = fs.readFileSync('./vidbinners/tidal.mp4')
+		const bin25 = `📩🔰 MÉTODO TIDAL 🔰📩
+
+📍 PASOS:
+
+⚜ PRIMER PASO: ENCENDER VPN EN BULGARIA EN CASO NO TENGAS DE UN VPN DE PAGA RECOMIENDO HOLAVPN MOOD
+
+⚜ SEGUNDO PASO: DIRIGIRSE A LA PÁGINA DE TIDAL. RECUERDEN USAR NAVEGADOR PRIVADO
+Duckduckgo Via FirefoxFocus Brave Browser Etc
+
+⚜ TERCER PASO: REGISTRATE CON UN CORREO Y UNA CONTRASEÑA 
+
+⚜ CUARTO PASO: TE DIRIGIRA A ESCOJER UN PLAN ESCOJES EL QUE TE SALE
+
+⚜ QUINTO PASO: LISTO AHORA TIENES TIDAL PREMIUM SIN NECESIDAD DE BIN
+
+🔱 Cortesia De: https://t.me/BineriaUniversal`
+enviarvideoscap(tidal,bin25)
+		break
+		
+		case 'avira':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const imagebin26 = fs.readFileSync('./vidbinners/imagebin26.jpg')
+		const bin26 = `📩🔰 MÉTODO AVIRA (ANTIVIRUS & VPN) SIN BIN 🔰📩
+
+🌐 VPN: No es necesario
+
+1️⃣ Ingresa al siguiente enlace: https://www.avira.com/it/freesecurity-lp?x-c-channel=partnerize
+
+2️⃣ Se registran con correo temporal.
+
+3️⃣ Luego en tu bandeja de entrada, te llegara un mensaje de confirmación, lo abres y creas una contraseña
+
+4️⃣ Les pedira su nombre y pais. Lo colocan y le dan en continuar 
+
+5️⃣ Felicidades, ya tienes Avira Antivirus & VPN en su versión Premiun.
+
+↪️ Cortesía De: Bineria Universal`
+enviarimagencap(imagebin26,bin26)
+		break
+		
+		// Final Bins - Carding
+		
+		
 		
 		
 		
