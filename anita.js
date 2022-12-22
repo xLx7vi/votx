@@ -1613,6 +1613,96 @@ https://chat.whatsapp.com/DwvnxoVjSoz4246vFbZBCP`
 enviarimagencap(imagebin17,bin17)
 		break
 		
+		case 'acorntv':
+					case 'acorn_tv':
+	  				case 'acorn-tv':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const acorntv = fs.readFileSync('./vidbinners/acorntv.mp4')
+		const bin18 = `[✅] TUTORIAL ACORNTV
+
+[🛐] APORTADOR: JOSEPH
+
+[🛃] MÁS CONTENIDO AQUÍ 👇
+
+[🔗] https://t.me/BineriaUniversal`
+enviarvideoscap(acorntv,bin18)
+		break
+		
+		case 'hbomax':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const hbomax = fs.readFileSync('./vidbinners/hbomax.mp4')
+		const bin19 = `[✅] TUTORIAL HBOMAX
+
+[🛐] APORTADOR: JOEL
+
+[🛃] MÁS CONTENIDO AQUÍ 👇
+
+[🔗] https://t.me/BineriaUniversal`
+enviarvideoscap(hbomax,bin19)
+		break
+		
+		case 'duolingo':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const duolingo = fs.readFileSync('./vidbinners/duolingo.mp4')
+		const bin20 = `[✅] TUTORIAL DUOLINGO
+
+[🛐] APORTADOR: CANIBALDOC
+
+[🛃] MÁS CONTENIDO AQUÍ 👇
+
+[🔗] https://t.me/BineriaUniversal`
+enviarvideoscap(hbomax,bin20)
+		break
+		
+		case 'primevideo':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const prime = fs.readFileSync('./vidbinners/primevideo.mp4')
+		const bin21 = `[✅] TUTORIAL PRIME VIDEO
+
+[🛐] APORTADOR: CANIBALDOC
+
+[🛃] MÁS CONTENIDO AQUÍ 👇
+
+[🔗] https://t.me/BineriaUniversal`
+enviarvideoscap(prime,bin21)
+		break
+		
+		case 'lumosity':
+		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
+		const lumosity= fs.readFileSync('./vidbinners/lumosity.jpg')
+		const bin22 = `🟧 Lumosity Método
+
+📌 No es necesario usar vpn
+
+🔘 Ingresa al siguiente enlace: https://www.lumosity.com/sign_up
+
+🔘 Registrar y crear su cuenta
+
+🔘 Rellenar con datos inventados.
+
+🔘 Ya con la cuenta creada ir a "Obtener acceso Ilimitado"
+
+🔘 Escoger cualquier plan
+
+🔘 En la página de pago colocar:
+
+💳 Tarjeta: 4242424242424242
+📆 Fecha: Generado
+🔑 Cvv: Generado
+
+📌 Pais: Estados Unidos
+📌 City: New York 
+📌 State : New York
+📌 Zip Code: 10080 
+
+✅ Felicidades, ya tienes Lumosity Premiun
+
+🔱 Cortesía De: Bineria Universal`
+enviarimagencap(lumosity,bin22)
+		break
+		
+		
+		
 		
 default:
 
