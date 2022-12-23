@@ -307,7 +307,7 @@ switch(command){
 	  			case 'que_es_un_bin':
 	  			case 'que-es-un-bin':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin1 = fs.readFileSync('./binners/imagebin1.jpg')
+		const imagebin1 = fs.readFileSync('./binners/queesunbin.jpg')
 		const bin1 = `PARA LOS QUE NO SABEN HACER CUENTAS....ESTE ES UN TUTORIAL TEÓRICO PARA QUE SEPAN A LO QUE SE ESTAN METIENDO.
 
 ✅ ¿QUE ES UN BIN?
@@ -453,7 +453,7 @@ enviarimagencap(imagebin1,bin1)
 					case 'extrapolar_un_bin':
 					case 'extrapolar-un-bin':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin2 = fs.readFileSync('./binners/imagebin2.jpg')
+		const imagebin2 = fs.readFileSync('./binners/extrapolacion.jpg')
 		const bin2 = `⚜ ¿QUE ES EXTRAPOLACIÓN? ⚜
 
 Extrapolar es cuando sacamos un bin a partir de una tarjeta de credito existente, Por Ejemplo:
@@ -641,7 +641,7 @@ case 'extrapolaciónhq':
 case 'extrapolación-hq':
 case 'extrapolación_hq':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin3 = fs.readFileSync('./binners/imagebin3.jpg')
+		const imagebin3 = fs.readFileSync('./binners/extrapolacionhq.jpg')
 		const bin3 = `✅ METODO PARA SACAR LIVE FAST SIN BOT SIN NADA , Y PARA TENER LA CERTITUD QUE JALA O ESTA REALMENTE LIVE USA CAROL O CUALQUIER OTRO BOT O CHECKER WEB , SI TE DA DIED EL BIN NO SIRVE O LO HICISTE MAL 
 
 4519912161013521|03|2026|618
@@ -671,7 +671,7 @@ enviarimagencap(imagebin3,bin3)
 					case 'verificar_un_bin':
 	  				case 'verificar-un-bin':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin4 = fs.readFileSync('./binners/imagebin4.jpg')
+		const imagebin4 = fs.readFileSync('./binners/verificarbin.jpg')
 		const bin4 = `Bueno geys. En esta oportunidad les enseñare a Verificar su BIN
 Primero necesitaremos un BIN. La ves pasada les enseñe como sacarlo xd.
 
@@ -713,7 +713,7 @@ enviarimagencap(imagebin4,bin4)
 case 'que_es_live':
 case 'que-es-live':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin5 = fs.readFileSync('./binners/imagebin5.jpg')
+		const imagebin5 = fs.readFileSync('./binners/queeslive.jpg')
 		const bin5 = `-Una live es una Cc que será aprobada en el lugar de donde es el bin
 
 Una live igual es una cc que tiene fondos.
@@ -755,7 +755,7 @@ enviarimagencap(imagebin5,bin5)
 case 'iban':
 	  case 'sepa':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin6 = fs.readFileSync('./binners/imagebin6.jpg')
+		const imagebin6 = fs.readFileSync('./binners/iban.jpg')
 		const bin6 = `⚠️| Método Iban.
 
 Bueno chicos hoy les voy a enseñar un metodo sencillo que puede sacarlos de un apuro, se llama Iban o Sepa...
@@ -807,7 +807,7 @@ enviarimagencap(imagebin6,bin6)
 		case 'iban':
 	  case 'sepa':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin7 = fs.readFileSync('./binners/imagebin7.jpg')
+		const imagebin7 = fs.readFileSync('./binners/iban.jpg')
 		const bin7 = `⚠️| Método Iban Parte ²
 
 ~Basicamente esa es la teoría de que es Iban 😛.
@@ -848,7 +848,7 @@ case 'introducciónbins':
 case 'introducción_bins':
 case 'introducción-bins':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin8 = fs.readFileSync('./binners/imagebin8.jpg')
+		const imagebin8 = fs.readFileSync('./binners/introbins.jpg')
 		const bin8 = `👑 introducción Bins
 
 🔱 Glosario:
@@ -941,7 +941,7 @@ case 'introduccióncarding':
 case 'introducción_carding':
 case 'introducción-carding':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin9 = fs.readFileSync('./binners/imagebin9.jpg')
+		const imagebin9 = fs.readFileSync('./binners/introcarding.jpg')
 		const bin9 = `Bueno aprovechando que el amigo SP3L1N4X  dejo una pequeña introduccion al Carding
 
 Manual de Carding
@@ -1207,7 +1207,7 @@ enviarimagencap(imagebin9,bin9)
 	  case 'plataformas_para_calar':
 	  case 'plataformas-para-calar':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin10 = fs.readFileSync('./binners/imagebin10.jpg')
+		const imagebin10 = fs.readFileSync('./binners/plataformas.jpg')
 		const bin10 = `100  PLATAFORMAS DONDE PUEDEN CALAR , VAMOS ✅
 
 1 CRUNCHYROLL
@@ -1322,7 +1322,7 @@ enviarimagencap(imagebin10,bin10)
 					case 'vpns_premiun':
 					case 'vpns-premiun':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin11 = fs.readFileSync('./binners/imagebin11.jpg')
+		const imagebin11 = fs.readFileSync('./binners/vpn.jpg')
 		const bin11 = `⚜ VPN PREMIUN ⚜
 
 🌐 TurboVPN
@@ -1357,7 +1357,7 @@ enviarimagencap(imagebin11,bin11)
 	  				case 'navegadoresprivados':
 					case 'navegadores_privados':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin12 = fs.readFileSync('./binners/imagebin12.jpg')
+		const imagebin12 = fs.readFileSync('./binners/navegadores.jpg')
 		const bin12 = `⚜ Navegadores Privados ⚜
 
 🔰 DuckDuckGo
@@ -1385,7 +1385,7 @@ enviarimagencap(imagebin12,bin12)
 					case 'sitios_sms':
 					case 'sitios-sms':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin13 = fs.readFileSync('./binners/imagebin13.jpg')
+		const imagebin13 = fs.readFileSync('./binners/sms.jpg')
 		const bin13 = `🔰 SITIOS HQ PARA VERIFICACIÓN DE SMS DE BYPASS (ALGUNAS YA NO FUNCIONAN) 🔰
 
  Ⓜ️ʀᴇᴄᴇɪᴠᴇ ᴀɴ sᴍs: https://receive-a-sms.com/
@@ -1443,7 +1443,7 @@ enviarimagencap(imagebin13,bin13)
 					case 'bineria-universal':
 					case 'bineria_universal':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin14 = fs.readFileSync('./binners/imagebin14.jpg')
+		const imagebin14 = fs.readFileSync('./binners/bineriauniversal.jpg')
 		const bin14 = `◾️Bineria Universal - Grupo Oficial
 
 ◾️Contenido: Carding - Binning
@@ -1504,7 +1504,7 @@ enviarimagencap(imagebin14,bin14)
 	  			  case 'staff':
 					case 'member':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin15 = fs.readFileSync('./binners/imagebin15.jpg')
+		const imagebin15 = fs.readFileSync('./binners/bineriauniversal.jpg')
 		const bin15 = `𝐓𝐞𝐚𝐦 𝐁𝐢𝐧𝐞𝐫𝐢𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐥:
 
 𝐒𝐭𝐚𝐟𝐟 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝐃𝐞 𝐁𝐢𝐧𝐞𝐫𝐢𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐥:
@@ -1537,7 +1537,7 @@ enviarimagencap(imagebin15,bin15)
 					case 'apk_binero':
 					case 'carding':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin16 = fs.readFileSync('./binners/imagebin16.jpg')
+		const imagebin16 = fs.readFileSync('./binners/apkbins.jpg')
 		const bin16 = `Les recomiendo esta nueva aplicación de carding completamemente gratis.
 
 https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file
@@ -1555,7 +1555,7 @@ enviarimagencap(imagebin16,bin16)
 		
 		case 'chfree':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin17 = fs.readFileSync('./binners/imagebin17.jpg')
+		const imagebin17 = fs.readFileSync('./binners/bineriauniversal.jpg')
 		const bin17 = `⚜️🆓 CURSO VIP 🆓⚜️
  
 ✝️ Temario Del Curso:
@@ -1690,7 +1690,7 @@ enviarimagencap(lumosity,bin22)
 case 'Extrapolar-Compras':
 case 'ExtrapolarCompras':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin23 = fs.readFileSync('./vidbinners/imagebin23.jpg')
+		const imagebin23 = fs.readFileSync('./vidbinners/extrapolacioncompras.jpg')
 		const bin23 = `⚡*EXTRAPOLAR CC PARA UN BIN DE COMPRAS FÍSICAS*⚡
 
 *INICIAMOS DE UN PUNTO BASE (UNA CC REAL)*
@@ -1722,7 +1722,7 @@ enviarimagencap(imagebin23,bin23)
 		
 		case 'cactusvpn':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin24 = fs.readFileSync('./vidbinners/imagebin24.jpg')
+		const imagebin24 = fs.readFileSync('./vidbinners/captusvpn.jpg')
 		const bin24 = `📩🔰 CAPTUS VPN SIN BIN   🔰📩
 
 ⚜ IP: Con La Tuya
@@ -1765,7 +1765,7 @@ enviarvideoscap(tidal,bin25)
 		
 		case 'avira':
 		if (!isGroup) return enviartexto('Este comando solo funciona en grupos\n\n🔥 ÚNETE: https://chat.whatsapp.com/CjllRNlWLP833gx7t9ruUb')
-		const imagebin26 = fs.readFileSync('./vidbinners/imagebin26.jpg')
+		const imagebin26 = fs.readFileSync('./vidbinners/avira.jpg')
 		const bin26 = `📩🔰 MÉTODO AVIRA (ANTIVIRUS & VPN) SIN BIN 🔰📩
 
 🌐 VPN: No es necesario
